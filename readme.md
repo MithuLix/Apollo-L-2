@@ -23,11 +23,11 @@
 
 ### 📗 Explore Content:
 - [x] **🎯 Mission 1: Be a Typescript Technocrat:**
+<!-- <details>
+<summary>module 2 : Explore Basic Types of Typescript.</summary> 
+</details>-->
 
-<details>
-<summary>module 2 : Explore Basic Types of Typescript.</summary>
-
-<small>
+<font size='2'>
 
 | Module 2 :--->             | Basic Types of Typescript: |                            |
 | -------------------------- | -------------------------- | -------------------------- |
@@ -38,6 +38,6 @@
 | Enum types                 | Null, Unknown, and Never    | Ternary Operator           |
 | Nullish Coalescing Operator|                             |                            |
 
-</small>
+</font>
 
-</details>
+
