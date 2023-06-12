@@ -32,3 +32,13 @@
 | Destructuring            | Type alias                | Union and Intersection types |
 | Enum types               | Null, Unknown, and Never Types | Ternary Operator          |
 | Nullish Coalescing Operator |                            |                            |
+
+
+| Concept                    | Concept                    | Concept                    |
+| -------------------------- | -------------------------- | -------------------------- |
+| Primitive types            | Array and Tuples            | Object                     |
+| Literal types              | Optional types              | Function                   |
+| Spread                     | Rest                        | Default parameters         |
+| Destructuring              | Type alias                  | Union and Intersection types |
+| Enum types                 | Null, Unknown, and Never    | Ternary Operator           |
+| Nullish Coalescing Operator|                             |                            |
