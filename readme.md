@@ -23,9 +23,10 @@
 
 ### 📗 Explore Content:
 - [x] **🎯 Mission 1: Be a Typescript Technocrat:**
+
 <small>
 
-| Module 2 :--->             | Basic Types of Typescript: | Concept                    |
+| Module 2 :--->             | Basic Types of Typescript: |                            |
 | -------------------------- | -------------------------- | -------------------------- |
 | Primitive types            | Array and Tuples            | Object                     |
 | Literal types              | Optional types              | Function                   |
@@ -33,4 +34,5 @@
 | Destructuring              | Type alias                  | Union and Intersection types |
 | Enum types                 | Null, Unknown, and Never    | Ternary Operator           |
 | Nullish Coalescing Operator|                             |                            |
+
 </small>
