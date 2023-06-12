@@ -28,10 +28,7 @@
 </details>-->
 
 <style scoped>
-table {
-  font-size: 12px;
-}
-</style>
+table {font-size: 12px;}
 
 |                            |                            |                            |
 | -------------------------- | -------------------------- | -------------------------- |
@@ -42,5 +39,5 @@ table {
 | Enum types                 | Null, Unknown, and Never    | Ternary Operator           |
 | Nullish Coalescing Operator|                             |                            |
 
-
+</style>
 
