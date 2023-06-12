@@ -11,7 +11,7 @@
 ### 📗 Explore Content:
 - [x] **module 2 : Explore Basic Types of Typescript :**
 
-    * Primitive types: TypeScript includes several primitive types, such as number, string, boolean, null, undefined and symbol. These types represent basic values in JavaScript.
+    * <u>Primitive types:</u> TypeScript includes several primitive types, such as number, string, boolean, null, undefined and symbol. These types represent basic values in JavaScript.
 
     * Array and Tuples: TypeScript provides the Array type for working with arrays. Arrays can be typed by specifying the type of their elements, such as number[] for an array of numbers. Tuples are a specific type of array that have a fixed length and each element can have a different type. For example, [string, number] represents a tuple with a string followed by a number.
 
