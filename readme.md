@@ -18,8 +18,7 @@
 - [ ] 🎯 Mission 2: Be a Mongoose Master.
 
 - [ ] 🎯 Mission 3: Be a NoSQL Backend Braniac.
-<hr/>
-
+---
 
 ### 📗 Explore Content:
 - [x] **🎯 Mission 1: Be a Typescript Technocrat:**
@@ -27,9 +26,7 @@
 <summary>module 2 : Explore Basic Types of Typescript.</summary> 
 </details>-->
 
-<font color="red">
-
-|                            |                            |                            |
+|module 2 : Explore Basic Types of Typescript.            |                            |
 | -------------------------- | -------------------------- | -------------------------- |
 | Primitive types            | Array and Tuples            | Object                     |
 | Literal types              | Optional types              | Function                   |
