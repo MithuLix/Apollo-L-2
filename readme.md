@@ -15,14 +15,15 @@
         module 5 : Assignment-1.
         module 5.5 : Bonus Module.
     ```
-- [ ] 🎯 Mission 2: Be a Mongoose Master
+- [ ] 🎯 Mission 2: Be a Mongoose Master.
 
-- [ ] 🎯 Mission 3: Be a NoSQL Backend Braniac
+- [ ] 🎯 Mission 3: Be a NoSQL Backend Braniac.
 <hr/>
 
 
 ### 📗 Explore Content:
 - [x] **🎯 Mission 1: Be a Typescript Technocrat:**
+<small>
 
 | Module 2 :--->             | Basic Types of Typescript: | Concept                    |
 | -------------------------- | -------------------------- | -------------------------- |
@@ -32,3 +33,4 @@
 | Destructuring              | Type alias                  | Union and Intersection types |
 | Enum types                 | Null, Unknown, and Never    | Ternary Operator           |
 | Nullish Coalescing Operator|                             |                            |
+</small>
