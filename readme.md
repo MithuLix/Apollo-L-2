@@ -27,9 +27,13 @@
 <summary>module 2 : Explore Basic Types of Typescript.</summary> 
 </details>-->
 
-<font size='1'>
+<style scoped>
+table {
+  font-size: 12px;
+}
+</style>
 
-| Module 2 :--->             | Basic Types of Typescript: |                            |
+|                            |                            |                            |
 | -------------------------- | -------------------------- | -------------------------- |
 | Primitive types            | Array and Tuples            | Object                     |
 | Literal types              | Optional types              | Function                   |
@@ -38,6 +42,5 @@
 | Enum types                 | Null, Unknown, and Never    | Ternary Operator           |
 | Nullish Coalescing Operator|                             |                            |
 
-</font>
 
 
