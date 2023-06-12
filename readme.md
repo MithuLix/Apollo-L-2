@@ -22,10 +22,9 @@
 
 
 ### 📗 Explore Content:
-- [x] **Mission 1: Be a Typescript Technocrat:**
-> **module 2 : Explore Basic Types of Typescript:**
+- [x] **🎯 Mission 1: Be a Typescript Technocrat:**
 
-|                          |                          |                          |
+|module 2:                 |Basic Types of Typescript:|                          |
 | ------------------------ | ------------------------ | ------------------------ |
 | Primitive types          | Array and Tuples          | Object                    |
 | Literal types            | Optional types            | Function                  |
