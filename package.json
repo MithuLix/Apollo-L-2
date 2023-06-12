@@ -1,0 +1,20 @@
+{
+  "name": "apollo-l-2",
+  "version": "1.0.0",
+  "description": "```\r     install ts, nodejs, nvm,",
+  "main": "installation.js",
+  "scripts": {
+    "start": "ts-node-dev --respawn --transpile-only installation.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "nvm": "^0.0.4",
+    "ts-node-dev": "^2.0.0"
+  }
+}
