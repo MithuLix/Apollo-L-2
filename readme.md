@@ -27,7 +27,7 @@
 <summary>module 2 : Explore Basic Types of Typescript.</summary> 
 </details>-->
 
-<font size='2'>
+<font size='1'>
 
 | Module 2 :--->             | Basic Types of Typescript: |                            |
 | -------------------------- | -------------------------- | -------------------------- |
