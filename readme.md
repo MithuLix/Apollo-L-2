@@ -24,6 +24,9 @@
 ### 📗 Explore Content:
 - [x] **🎯 Mission 1: Be a Typescript Technocrat:**
 
+<details>
+<summary>module 2 : Explore Basic Types of Typescript.</summary>
+
 <small>
 
 | Module 2 :--->             | Basic Types of Typescript: |                            |
@@ -36,3 +39,5 @@
 | Nullish Coalescing Operator|                             |                            |
 
 </small>
+
+</details>
