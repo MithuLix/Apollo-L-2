@@ -27,8 +27,7 @@
 <summary>module 2 : Explore Basic Types of Typescript.</summary> 
 </details>-->
 
-<style scoped>
-table {font-size: 12px;}
+<font color="red">
 
 |                            |                            |                            |
 | -------------------------- | -------------------------- | -------------------------- |
@@ -39,5 +38,6 @@ table {font-size: 12px;}
 | Enum types                 | Null, Unknown, and Never    | Ternary Operator           |
 | Nullish Coalescing Operator|                             |                            |
 
-</style>
+</font>
 
+---
