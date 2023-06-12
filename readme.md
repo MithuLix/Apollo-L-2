@@ -18,10 +18,10 @@
 - [ ] 🎯 Mission 2: Be a Mongoose Master.
 
 - [ ] 🎯 Mission 3: Be a NoSQL Backend Braniac.
----
+__________________________________
 
 ### 📗 Explore Content:
-- [x] **🎯 Mission 1: Be a Typescript Technocrat:**
+- [x] **🎯 Mission 1: Be a Typescript Technocrat :**
 <!-- <details>
 <summary>module 2 : Explore Basic Types of Typescript.</summary> 
 </details>-->
