@@ -23,8 +23,9 @@
 
 ### 📗 Explore Content:
 - [x] * **Mission 1 topics i've learned :**
->> **Topics :** Primitive types, Array and Tuples, Object, Literal types, Optional types, Function, Spread, Rest, Default parameters and Destructuring, Type alias, Union, Intersection and enum types, Null, Unknown and Never Types, Ternary Operator, Nullish Coeslancing Operator.
-| Column 1                  | Column 2                  | Column 3                  |
+>> **Topics :**
+
+| module 2 : Explore Basic Types of Typescript.|                    |           |
 | ------------------------ | ------------------------ | ------------------------ |
 | Primitive types          | Array and Tuples          | Object                    |
 | Literal types            | Optional types            | Function                  |
