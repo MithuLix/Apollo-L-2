@@ -1,5 +1,4 @@
 ### 🎯 Mission 1: Be a Typescript Technocrat: 📗 Table of Content:
-- [x] 
     ```ts
         module 2 : Explore Basic Types of Typescript.
         module 3 : Explore Advanced Types od Typescript.
@@ -9,9 +8,9 @@
         module 5.5 : Bonus Module.
     ```
 ### 📗 Explore Content:
-- [x] * **module 2 : Explore Basic Types of Typescript :**
+- [x] **module 2 : Explore Basic Types of Typescript :**
 
-| Module 2 : Explore Basic Types of Typescript.            |                                |
+| Module 2 : Explore Basic Types of Typescript.            |               |                 |
 | -------------------------- | --------------------------- | ------------------------------- |
 | Primitive types            | Array and Tuples            | Object                          |
 | Literal types              | Optional types              | Function                        |
