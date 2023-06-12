@@ -26,8 +26,7 @@
 <summary>module 2 : Explore Basic Types of Typescript.</summary> 
 </details>-->
 
-
-| module 2 : Explore Basic Types of Typescript.           |                            |
+| module 2 : Explore Basic Types of Typescript.           |           |                |
 | -------------------------- | -------------------------- | -------------------------- |
 | Primitive types            | Array and Tuples            | Object                     |
 | Literal types              | Optional types              | Function                   |
