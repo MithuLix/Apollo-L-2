@@ -11,7 +11,15 @@
 ### 📗 Explore Content:
 - [x] * **module 2 : Explore Basic Types of Typescript :**
 
->> Topics :Primitive types, Array and Tuples, Object, Literal types, Optional types, Function, Spread, Rest, Default parameters and Destructuring, Type alias, Union, Intersection and enum types, Null, Unknown and Never Types, Ternary Operator, Nullish Coeslancing Operator.
+| Module 2 : Explore Basic Types of Typescript.            |                                |
+| -------------------------- | --------------------------- | ------------------------------- |
+| Primitive types            | Array and Tuples            | Object                          |
+| Literal types              | Optional types              | Function                        |
+| Spread                     | Rest                        | Default parameters              |
+| Destructuring              | Type alias                  | Union and Intersection types    |
+| Enum types                 | Null, Unknown, and Never    | Ternary Operator                |
+| Nullish Coalescing Operator|                             |                                 |
+
 
     1. Primitive types: TypeScript includes several primitive types, such as number, string, boolean, null, undefined, and symbol. These types represent basic values in JavaScript.
 
