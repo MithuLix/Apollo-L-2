@@ -35,6 +35,4 @@
 | Enum types                 | Null, Unknown, and Never    | Ternary Operator           |
 | Nullish Coalescing Operator|                             |                            |
 
-</font>
-
 ---
