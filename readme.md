@@ -22,10 +22,10 @@
 
 
 ### 📗 Explore Content:
-- [x] * **Mission 1 topics i've learned :**
+- [x] **Mission 1 - i've learned :**
 >> **Topics :**
 
-| module 2 : Explore Basic Types of Typescript.|                    |           |
+| Basic Types of Typescript.|                    |                      |
 | ------------------------ | ------------------------ | ------------------------ |
 | Primitive types          | Array and Tuples          | Object                    |
 | Literal types            | Optional types            | Function                  |
