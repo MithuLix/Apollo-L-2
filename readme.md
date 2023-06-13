@@ -1,7 +1,7 @@
 ### Next Level Web Development
 ```
     install ts, nodejs, nvm. install pkg=  npm i ts-node-dev
-    ts-node-dev --respawn --transpile-only server.ts
+    npx ts-node-dev --respawn --transpile-only server.ts
     shorthand = tsnd --respawn server.ts
 ```
 

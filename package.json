@@ -4,7 +4,7 @@
   "description": "```\r     install ts, nodejs, nvm,",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node-dev --respawn --transpile-only index.ts",
+    "start": "ts-node-dev --respawn --transpile-only src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -14,7 +14,17 @@
     "nodemon": "^2.0.22"
   },
   "dependencies": {
+    "node": "^18.16.0",
+    "node-fetch": "^3.3.1",
     "nvm": "^0.0.4",
     "ts-node-dev": "^2.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MithuLix/Apollo-L-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MithuLix/Apollo-L-2/issues"
+  },
+  "homepage": "https://github.com/MithuLix/Apollo-L-2#readme"
 }

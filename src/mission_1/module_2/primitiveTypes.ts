@@ -1,12 +1,12 @@
 const age: number = 25;
-const nameIs: string = "John";
+const isName: string = "John";
 const isStudent: boolean = true;
 const data: null = null;
 const value: undefined = undefined;
 const id: symbol = Symbol("unique");
 
 console.log(age);       // Output: 25
-console.log(nameIs);      // Output: John
+console.log(isName);      // Output: John
 console.log(isStudent); // Output: true
 console.log(data);      // Output: null
 console.log(value);     // Output: undefined
