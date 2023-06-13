@@ -7,8 +7,7 @@
 
 ### 📗 Table of Content:
 - [x] 🎯 Mission 1: Be a Typescript Technocrat:
-
-    ```ts
+```ts
 | >> Topic's i've learned :  |                            |                            |
 | -------------------------- | -------------------------- | -------------------------- |
 | Primitive types            | Array and Tuples            | Object                     |
@@ -17,8 +16,7 @@
 | Destructuring              | Type alias                  | Union and Intersection types |
 | Enum types                 | Null, Unknown, and Never    | Ternary Operator           |
 | Nullish Coalescing Operator|                             |                            |
-
-    ```
+```
 
 - [ ] 🎯 Mission 2: Be a Mongoose Master.
 
