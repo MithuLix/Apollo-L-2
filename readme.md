@@ -8,12 +8,14 @@
 ### 📗 Table of Content:
 - [x] 🎯 Mission 1: Be a Typescript Technocrat:
     ```ts
-        module 2 : Explore Basic Types of Typescript.
-        module 3 : Explore Advanced Types od Typescript.
-        module 4 : Object-Oriented Programming in Typescript.
-        module 4.5 : Simple Typescript practice.
-        module 5 : Assignment-1.
-        module 5.5 : Bonus Module.
+| >> Topic's i've learned :  | Concept                    | Concept                    |
+| -------------------------- | -------------------------- | -------------------------- |
+| Primitive types            | Array and Tuples            | Object                     |
+| Literal types              | Optional types              | Function                   |
+| Spread                     | Rest                        | Default parameters         |
+| Destructuring              | Type alias                  | Union and Intersection types |
+| Enum types                 | Null, Unknown, and Never    | Ternary Operator           |
+| Nullish Coalescing Operator|                             |                            |
     ```
 - [ ] 🎯 Mission 2: Be a Mongoose Master.
 
