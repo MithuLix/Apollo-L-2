@@ -2,9 +2,9 @@
   "name": "apollo-l-2",
   "version": "1.0.0",
   "description": "```\r     install ts, nodejs, nvm,",
-  "main": "installation.js",
+  "main": "index.js",
   "scripts": {
-    "start": "ts-node-dev --respawn --transpile-only installation.ts",
+    "start": "ts-node-dev --respawn --transpile-only index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
