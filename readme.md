@@ -8,7 +8,7 @@
 ### 📗 Table of Content:
 - [x] 🎯 Mission 1: Be a Typescript Technocrat:
 ```ts
-| >> Topic's i've learned :  |                            |                            |
+| >> Topic's i've learned :  
 | -------------------------- | -------------------------- | -------------------------- |
 | Primitive types            | Array and Tuples            | Object                     |
 | Literal types              | Optional types              | Function                   |
