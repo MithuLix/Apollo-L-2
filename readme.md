@@ -7,6 +7,7 @@
 
 ### 📗 Table of Content:
 - [x] 🎯 Mission 1: Be a Typescript Technocrat:
+
     ```ts
 | >> Topic's i've learned :  |                            |                            |
 | -------------------------- | -------------------------- | -------------------------- |
