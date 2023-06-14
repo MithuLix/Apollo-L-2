@@ -2,6 +2,7 @@
 ```
     install ts, nodejs, nvm. install pkg=  npm i ts-node-dev
     npx ts-node-dev --respawn --transpile-only server.ts
+    npx ts-node-dev --respawn src/mission_1/module_3/typeAssertion.ts
     shorthand = tsnd --respawn server.ts
 ```
 
