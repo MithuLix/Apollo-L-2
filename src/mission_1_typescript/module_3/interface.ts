@@ -33,7 +33,3 @@ const addNums:addTwoNums = (num1, num2) => num1+ num2;
 interface IaddNums {
     (num1:number, num2:number):number
 }
-
-interface faceNumbers {
-    
-}

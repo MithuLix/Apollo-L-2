@@ -16,7 +16,14 @@
 | Spread                     | Rest                        | Default parameters         |
 | Destructuring              | Type alias                  | Union and Intersection types |
 | Enum types                 | Null, Unknown, and Never    | Ternary Operator           |
-| Nullish Coalescing Operator|                             |                            |
+| Nullish Coalescing Operator| Type Assertion              | Interface                  |
+| Generic Type               | Constraints                 | Key of                     |
+| Asynchronous               | Conditional Types           | Mapped Types               |
+| Class                      | Object                      | Parameter                  |
+| Inheritance                | Type Guards                 | Type Narrowing             |
+| Access Modifiers: Public, Private,Protected | Getter & Setter |                       |
+| Static in Class            | Polymorphism                | Abstraction                |
+| Encapsulation              |
 ```
 
 - [ ] 🎯 Mission 2: Be a Mongoose Master.
