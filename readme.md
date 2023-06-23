@@ -21,7 +21,7 @@
 | Asynchronous               | Conditional Types           | Mapped Types               |
 | Class                      | Object                      | Parameter                  |
 | Inheritance                | Type Guards                 | Type Narrowing             |
-| Access Modifiers: Public, Private,Protected              | Getter & Setter |          |
+| Access Modifiers: Public, Private,Protected              | Getter & Setter            |
 | Static in Class            | Polymorphism                | Abstraction                |
 | Encapsulation              |
 ```
