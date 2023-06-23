@@ -1,4 +1,4 @@
-### Next Level Web Development
+### Next Level Web Development | Apollo-L-2
 ```
     install ts, nodejs, nvm. install pkg=  npm i ts-node-dev
     npx ts-node-dev --respawn --transpile-only server.ts
@@ -21,7 +21,7 @@
 | Asynchronous               | Conditional Types           | Mapped Types                 |
 | Class                      | Object                      | Parameter                    |
 | Inheritance                | Type Guards                 | Type Narrowing               |
-| Access Modifiers: Public, Private,Protected              | Getter & Setter              |
+| Access Modifiers: Public,Private,Protected              | Getter & Setter               |
 | Static in Class            | Polymorphism                | Abstraction                  |
 | Encapsulation              |
 ```
