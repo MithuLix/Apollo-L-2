@@ -10,19 +10,19 @@
 - [x] 🎯 Mission 1: Be a Typescript Technocrat:
 ```ts
 | >> Topic's i've learned :  
-| -------------------------- | --------------------------- | -------------------------- |
-| Primitive types            | Array and Tuples            | Object                     |
-| Literal types              | Optional types              | Function                   |
-| Spread                     | Rest                        | Default parameters         |
+| -------------------------- | --------------------------- | ---------------------------- |
+| Primitive types            | Array and Tuples            | Object                       |
+| Literal types              | Optional types              | Function                     |
+| Spread                     | Rest                        | Default parameters           |
 | Destructuring              | Type alias                  | Union and Intersection types |
-| Enum types                 | Null, Unknown, and Never    | Ternary Operator           |
-| Nullish Coalescing Operator| Type Assertion              | Interface                  |
-| Generic Type               | Constraints                 | Key of                     |
-| Asynchronous               | Conditional Types           | Mapped Types               |
-| Class                      | Object                      | Parameter                  |
-| Inheritance                | Type Guards                 | Type Narrowing             |
-| Access Modifiers: Public, Private,Protected              | Getter & Setter            |
-| Static in Class            | Polymorphism                | Abstraction                |
+| Enum types                 | Null, Unknown, and Never    | Ternary Operator             |
+| Nullish Coalescing Operator| Type Assertion              | Interface                    |
+| Generic Type               | Constraints                 | Key of                       |
+| Asynchronous               | Conditional Types           | Mapped Types                 |
+| Class                      | Object                      | Parameter                    |
+| Inheritance                | Type Guards                 | Type Narrowing               |
+| Access Modifiers: Public, Private,Protected              | Getter & Setter              |
+| Static in Class            | Polymorphism                | Abstraction                  |
 | Encapsulation              |
 ```
 
