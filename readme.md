@@ -2,7 +2,7 @@
 ```
     install ts, nodejs, nvm. install pkg=  npm i ts-node-dev
     npx ts-node-dev --respawn --transpile-only server.ts
-    npx ts-node-dev --respawn src/mission_1/module_3/typeAssertion.ts
+    npx ts-node-dev --respawn src/mission_1_typescript/module_4_oop/object.ts
     shorthand = tsnd --respawn server.ts
 ```
 
@@ -21,7 +21,7 @@
 | Asynchronous               | Conditional Types           | Mapped Types                 |
 | Class                      | Object                      | Parameter                    |
 | Inheritance                | Type Guards                 | Type Narrowing               |
-| Access Modifiers: Public,Private,Protected              | Getter & Setter               |
+| Access Modifiers: Public,Private,Protected               | Getter & Setter              |
 | Static in Class            | Polymorphism                | Abstraction                  |
 | Encapsulation              |
 ```
