@@ -1,4 +1,3 @@
-import { type } from "os";
 
 type Alphanumeric = string | number;
 function add(param1:Alphanumeric, param2:Alphanumeric):Alphanumeric {
@@ -35,7 +34,7 @@ const adminUser1: AdminUserType = {name: "ret", role:"admin"}
 console.log(getUser(normalUser1));
 console.log(getUser(adminUser1));
 
-// instanceof guar
+// instanceof guard
 class AnimalTp{
     name: string;
     species: string;
