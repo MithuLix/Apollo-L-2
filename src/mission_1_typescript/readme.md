@@ -4,7 +4,7 @@
     module 2 : Explore Basic Types of Typescript.
     module 3 : Explore Advanced Types od Typescript.
     module 4 : Object-Oriented Programming in Typescript.
-    module 4.5 : Simple Typescript practice.
+    // module 4.5 : Simple Typescript practice.
     module 5 : Assignment-1.
     module 5.5 : Bonus Module.
 ```
@@ -423,7 +423,11 @@
             }
         }
     ```
+---
 
+
+
+- [x] **module 5.5 : Bonus Module :**
 
     * Import/Export: In TypeScript, import and export are used to organize and modularize code across different files or modules. import is used to bring functionality from other modules, and export is used to expose functionality from the current module. Example:
     ```ts
