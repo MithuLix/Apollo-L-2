@@ -43,3 +43,23 @@
 
 
 
+- [x] **module 3 : Explore Advanced Types od Typescript :**
+
+    * Type Assertion: Type assertion in TypeScript is used to explicitly specify the type of a value. It is typically used when you know more about the type of a value than TypeScript can infer. Example:
+    ```ts
+        let value: unknown = "Hello";
+        let length: number = (value as string).length;
+    ```
+
+    * Interface: Interfaces define the structure of an object in TypeScript. They describe the properties and their types that an object should have. Example:
+    ```ts
+        interface Person {
+        name: string;
+        age: number;
+        }
+
+        let person: Person = {
+        name: "John",
+        age: 25,
+        };
+    ```
